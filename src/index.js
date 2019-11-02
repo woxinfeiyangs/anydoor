@@ -9,3 +9,5 @@ alert(123)
 /* eslint-enable */
 
 window.name('') // eslint-disable-line
+
+// console.log(123)
