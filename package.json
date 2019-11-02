@@ -1,0 +1,34 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "Tiny NodeJS Static Web Server",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lint": "eslint .",
+    "fix": "eslint --fix .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preCommit": [
+    "fix",
+    "lint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woxinfeiyangs/anydoor.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "webServer"
+  ],
+  "author": "sxj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woxinfeiyangs/anydoor/issues"
+  },
+  "homepage": "https://github.com/woxinfeiyangs/anydoor#readme"
+}
