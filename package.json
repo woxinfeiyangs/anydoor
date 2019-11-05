@@ -5,7 +5,10 @@
   "main": ".eslintrc.js",
   "dependencies": {
     "babel-eslint": "^10.0.3",
-    "eslint": "^6.6.0"
+    "chalk": "^2.4.2",
+    "eslint": "^6.6.0",
+    "handlebars": "^4.5.1",
+    "zlib": "^1.0.5"
   },
   "devDependencies": {
     "pre-commit": "^1.2.2"

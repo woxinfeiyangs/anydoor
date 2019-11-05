@@ -13,7 +13,7 @@ module.exports = {
     },
     "globals": {
         // "window": true
-        alert: true
+        // alert: true
     },
     "env": {
         "browser": false,
